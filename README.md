@@ -6,12 +6,13 @@ Script Version 1.0 by YukoFurry
 Fl-Studio Version 20.8.4 Build 2576 (Should be compatible from 20.7 to newest)
 
 
-Note: This script is personalized for my use, however many button functions are predefined anyway (like play/record) 
-so I of course coded them for their destined purpose. I am by far no professional coder and even less a python geek, 
-so please don't expect any godlike code. I bought the PreSonus Atom with the expectancy it would work natively with 
-FL-Studio which it didn't. To make it work I was thrown into python scripting so here we are.
-If you know FL-Studio midi scripting and want to help or generally have suggestions for button use feel free to 
-contact me.
+Note: This script is personalized for my use, however many button functions are predefined anyway 
+(like play/record) so I of course coded them for their destined purpose. 
+I am by far no professional coder and even less a python geek, so please don't expect any godlike 
+code. I bought the PreSonus Atom with the expectancy it would work natively with FL-Studio which 
+it didn't. To make it work I was thrown into python scripting so here we are.
+If you know FL-Studio midi scripting and want to help or generally have suggestions for button use 
+feel free to contact me.
 
 -----Functions-----
 
