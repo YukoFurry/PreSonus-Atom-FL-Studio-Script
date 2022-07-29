@@ -1,4 +1,4 @@
-PreSonus-Atom-Fl-Studio-Script
+PreSonus-Atom-FL-Studio-Script
 ```
 FL Studio midi script for the PreSonus Atom Pad controller
 Made by YukoFurry
