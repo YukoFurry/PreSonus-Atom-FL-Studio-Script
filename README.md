@@ -15,7 +15,7 @@ If you know FL-Studio midi scripting and want to help or generally have suggesti
 feel free to contact me.
 
 For information on where to put the file please see:
-https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm
+For information on where to put the file please see [Image-Lines guide on midi scripts under Script Locations and File Names](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/midi_scripting.htm).
 
 -----Functions-----
 
