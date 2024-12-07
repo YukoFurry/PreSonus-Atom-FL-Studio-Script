@@ -1,6 +1,6 @@
 PreSonus-Atom-FL-Studio-Script
 ```
-###**New Version Out! Latest: V1.2**
+#New Version Out! Latest: V1.2
 
 FL-Studio midi script for the PreSonus Atom Pad controller
 Made by YukoFurry
